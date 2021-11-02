@@ -1,0 +1,25 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Product name",
+      "description": "description from product here",
+      "image": null,
+      "price": 15000
+    },
+    {
+      "id": 2,
+      "name": "New product name",
+      "description": "description from product here",
+      "image": null,
+      "price": 29900
+    }
+  ],
+  "user": {
+    "id": 1,
+    "name": "Thiago Pereira",
+    "email": "thiago_salper@hotmail.com",
+    "gender": "male",
+    "birthdate": 19900427
+  }
+}
